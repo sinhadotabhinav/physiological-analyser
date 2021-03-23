@@ -1,6 +1,6 @@
 # Physiological Measurement Analyser
 
-A sample of first year male statistics students at *University of Glasgow* had the grip strength of their dominant hand measured using a grip dynamometer. In addition, a number of physiological measurements were made on their dominant hand and arm; width and length (cm) of the hand, circumference (cm) of forearm and bicep, skinfold thickness (mm) of forearm and bicep. The height (cm) and weight (kg) of the students was also recorded.
+A sample of first year male statistics students at **University of Glasgow** had the grip strength of their dominant hand measured using a grip dynamometer. In addition, a number of physiological measurements were made on their dominant hand and arm; width and length (cm) of the hand, circumference (cm) of forearm and bicep, skinfold thickness (mm) of forearm and bicep. The height (cm) and weight (kg) of the students was also recorded.
 The data are stored in the Stata data file male-grip-strength.dta and contains the following variables:
 
 |     Explanatory Variable      |  Unit  |
@@ -28,6 +28,3 @@ The weight and height variables are utilised to create 4 categories of Body Mass
 (iv) obese >=30
 
 A parsimonous model is then identified using appropriate statistical methods for predicting grip strength.
-
-
-Sincere thanks to project team at @University of Glasgow
